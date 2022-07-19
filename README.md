@@ -1,2 +1,2 @@
-# portif-lio
+# portifólio
 Primeiro projeto como desenvolvedor
